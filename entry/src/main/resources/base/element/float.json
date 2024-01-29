@@ -1,0 +1,16 @@
+{
+  "float": [
+    {
+      "name": "textSize20",
+      "value": "20fp"
+    },
+    {
+      "name": "textSize50",
+      "value": "50fp"
+    },
+    {
+      "name": "padding20",
+      "value": "20vp%"
+    }
+  ]
+}
